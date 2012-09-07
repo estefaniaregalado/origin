@@ -16,10 +16,16 @@ body,
 #main,
 #triptych,
 #footer-columns,
-#footer {
+#footer
+ {
   width: 960px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#upper{
+background:#0d2057;
+text-align:center;
 }
 #header div.section {
   position: relative;

@@ -85,8 +85,9 @@
  * @see html.tpl.php
  */
 ?>
-<div id="page-wrapper"><div id="page">
 
+<div id="page-wrapper"><div id="page">
+<div id="upper"><img src="http://www.hirephpprogrammerindia.com/images/banner-drupal.jpg" width=980 height=200 /></div>
   <div id="header" class="<?php print $secondary_menu ? 'with-secondary-menu': 'without-secondary-menu'; ?>"><div class="section clearfix">
 
     <?php if ($logo): ?>
